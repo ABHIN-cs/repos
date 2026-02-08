@@ -1,3 +1,3 @@
-My name is ABHIN NATH
+My name is ABHIN NATH.
 I'm currently a BSc CS student and I would like to specialize in cybersecurity. While my courses give me basic theory and WhiteHats offers the practical playground I need. I want to join The WhiteHats Club to move beyond just reading about cybersecurity and start practicing it. I've already started doing Google Cybersecurity Professional Certificate and intend to do Security+ so that I gain knowledge related to technical terms and other important things that I don't know because I'm a BSc student.
 A cybersecurity incident that I read about recently is The Coupang Data Breach. Coupang is a South Korean e-commerce company, which suffered massive data breach exposing personal information of about 34 million customers.
